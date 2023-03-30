@@ -1,5 +1,5 @@
 class Animals {
-    name: string;
+    name:string;
     age: number;
     sound: string;
   
